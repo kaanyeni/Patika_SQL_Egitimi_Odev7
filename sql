@@ -1,3 +1,4 @@
+--1
 select rating from film group by rating
 --2
 select replacement_cost, count(*) from film group by replacement_costhaving count (*)>50
